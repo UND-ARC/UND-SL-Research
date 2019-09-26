@@ -5,3 +5,5 @@
 * Does the 90sec requirement apply to every descending part or only the launch vehicle?
 * Can we drop a "descent battery" from a flying UAV once it's depleted?
   - If so, does it need its own GPS/transponder system?
+  - Can we drop a battery while stationary on the surface?  If so, does it need a tracking device?
+* Live-tether cut for UAS -- does it have to be physically tethered, or can we just not deploy until ready?
